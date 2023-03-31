@@ -1,0 +1,29 @@
+/* body,
+.imgl {
+  margin: 0;
+  padding: 0;
+} */
+
+/* .container {
+}
+
+.title {
+} */
+#colpadtop {
+  padding-top: 2rem;
+  justify-content: center;
+}
+
+.shortDesc {
+  /* padding-top: 12px; */
+  /* margin: auto 50%; */
+  margin-left: 50px;
+}
+
+#shortDesc {
+  margin: auto 1rem;
+}
+
+#RCpad {
+  padding-top: 2rem;
+}

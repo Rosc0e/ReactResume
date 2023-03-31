@@ -1,0 +1,25 @@
+.svg-container {
+  padding: 20px;
+  display: flexbox;
+}
+
+.social-logo-svg {
+  transition: transform 0.3s ease-in-out;
+}
+
+.social-logo-svg:hover {
+  transition: transform 0.3s ease-in-out;
+  transform: scale(1.4);
+}
+
+.icon-con {
+  display: inline-flex;
+  transform: translate(5px, 5px);
+  scale: 150%;
+}
+
+.icon-con1 {
+  display: inline-flex;
+  transform: translate(5px, 5px);
+  scale: 150%;
+}
